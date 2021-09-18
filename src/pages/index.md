@@ -7,7 +7,7 @@ sections:
       Consulting for services that vow future business success, you design we
       serve
     content: |
-      ****
+      ***
     actions:
       - label: Explore More!
         url: /about
