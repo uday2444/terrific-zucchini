@@ -9,7 +9,7 @@ sections:
     content: |
       ****
     actions:
-      - label: Get Your Ticket Today!
+      - label: Explore More!
         url: /about
         style: primary
     align: center
