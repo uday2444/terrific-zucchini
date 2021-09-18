@@ -6,7 +6,8 @@ sections:
     subtitle: >-
       Consulting for services that vow future business success, you design we
       serve
-    content: '**April 14 - 16, 2021**'
+    content: |
+      ****
     actions:
       - label: Get Your Ticket Today!
         url: /about
