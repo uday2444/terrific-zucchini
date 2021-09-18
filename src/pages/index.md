@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Define. Excel. Accelerate.
-    subtitle: >-
-      Consulting for services that vow future business success, you design we
-      serve
     content: |
       ***
     actions:
