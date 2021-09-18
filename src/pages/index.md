@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Define. Excel. Accelerate.
-    subtitle: Conference for Creative People
+    subtitle: >-
+      Consulting for services that vow future business success, you design we
+      serve
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
